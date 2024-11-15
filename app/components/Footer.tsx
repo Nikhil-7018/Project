@@ -22,6 +22,11 @@ const Footer:React.FC = () => {
               Contact 
             </Link>
           </li>
+          <li className='hover:text-teal-400'>
+            <Link href="/Customer support">
+              Customer Support
+            </Link>
+          </li>
         </ul>
       </div>
     </footer>
